@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Samuel Andrade</h1>
 <h3 align="center">Software Engineering Student | Frontend & React Developer</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamuelAndrade-Dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Samuel's GitHub Stats" />
-</p>
 
 <p align="left"> 
   Estudante de desenvolvimento de software focado na criação de interfaces modernas e acessíveis. Especialista em <strong>HTML5 Semântico</strong> (zero divs quando possível!) e estratégia <strong>Mobile-First</strong>. Atualmente construindo aplicações com <strong>React</strong> e estruturando ambientes com <strong>Docker</strong>.
 </p>
+
+
 
 - 🚀 Atualmente desenvolvendo: **Projetos em React e Vite**
 - 🌱 Aprendendo: **Componentização e Gerenciamento de Estado**
