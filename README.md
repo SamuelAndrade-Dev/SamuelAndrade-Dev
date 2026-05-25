@@ -8,7 +8,7 @@
 
 
 
-- 🚀 Atualmente desenvolvendo: **Projetos em React e Vite**
+- 🚀 Atualmente desenvolvendo: **Projetos em React, Vite e Next**
 - 🌱 Aprendendo: **Componentização e Gerenciamento de Estado**
 - 🛠️ Ferramentas favoritas: **PHP 8.4, Docker Compose e Power BI**
 - 🏛️ Filosofia de código: **Semântica e Acessibilidade em primeiro lugar**
@@ -30,6 +30,9 @@
   <!-- Frameworks e Build Tools -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" alt="vite" width="35" height="35"/> </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+</a>
   
   <!-- Backend & Infra -->
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
