@@ -10,7 +10,6 @@
 
 - 🚀 Atualmente desenvolvendo: **Projetos em React, Vite e Next**
 - 🌱 Aprendendo: **Componentização e Gerenciamento de Estado**
-- 🛠️ Ferramentas favoritas: **PHP 8.4, Docker Compose e Power BI**
 - 🏛️ Filosofia de código: **Semântica e Acessibilidade em primeiro lugar**
 
 <h3 align="left">Conecte-se comigo:</h3>
