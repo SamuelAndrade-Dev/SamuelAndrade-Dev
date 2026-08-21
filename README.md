@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samuel Andrade</h1>
-<h3 align="center">Software Engineering Student | Frontend & React Developer</h3>
-
 
 <p align="left"> 
-  Estudante de desenvolvimento de software focado na criação de interfaces modernas e acessíveis. Especialista em <strong>HTML5 Semântico</strong> (zero divs quando possível!) e estratégia <strong>Mobile-First</strong>. Atualmente construindo aplicações com <strong>React</strong> e estruturando ambientes com <strong>Docker</strong>.
+  Estudante de desenvolvimento de software focado na criação de interfaces modernas e acessíveis. Especialista em <strong>HTML5 Semântico</strong> (zero divs quando possível!). Atualmente construindo aplicações com <strong>React</strong> e estruturando ambientes com <strong>Docker</strong>.
 </p>
 
 
@@ -33,7 +31,5 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
 </a>
   
-  <!-- Backend & Infra -->
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 </p>
